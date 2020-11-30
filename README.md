@@ -1,7 +1,7 @@
 
 # GuitarTunerX2000
 
-![Front page]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/front_page.jpg")
+![Front page]("images/front_page.jpg")
 ![Chord table]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/chord_table.jpg")
 ![Frequencies]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/frequencies.jpg")
 
