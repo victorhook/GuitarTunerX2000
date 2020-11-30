@@ -1,9 +1,13 @@
 
 # GuitarTunerX2000
 
-![Front page]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/front_page.jpg")
-![Chord table]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/chord_table.jpg")
-![Frequencies]("https://github.com/victorhook/GuitarTunerX2000/blob/master/images/frequencies.jpg")
+<table>
+    <tr>
+        <td><img src="images/front_page.jpg" width="200"></td>
+        <td><img src="images/chord_table.jpg" width="200"></td>
+        <td><img src="images/frequencies.jpg" width="200"></td>
+    </tr>
+</table>
 
 This is an android app that is used to help you tune your guitar. The phone uses the microphone to record audio and then shows the predicted fundamental frequency of this audio. Together with som UI, this hopefully makes it easy to visualize how close you are to the correct frequency for a specific pitch.
 
